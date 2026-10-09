@@ -1,2 +1,3 @@
 First file git test notepadgn
+new line
 Hy
